@@ -1,0 +1,28 @@
+*{
+  margin: 0;
+  width: 100%;
+
+}
+body{
+  background-color: rgb(107,108,255);
+}
+.container{
+  display: flex;
+  justify-content: center;
+  padding-top:10px;
+}
+.projectname{
+  padding-top:30px;
+  color:white;
+  padding-bottom: 30px;
+  border-bottom: 2px solid white;
+}
+.container>ul{
+  width:25%;
+}
+
+.container>ul>li{
+  width:100%;
+}
+
+
