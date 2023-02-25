@@ -1,11 +1,11 @@
 .item {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin-top:10px;
-    border-radius: 10px;
-    height:5vh;
-    background-color: white;
-    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
-  }
-  
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10px;
+  font-size: 17px;
+  border-radius: 10px;
+  height: 5vh;
+  background-color: white;
+  box-shadow: rgb(149 157 165 / 20%) 0px 8px 24px;
+}

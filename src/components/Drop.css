@@ -19,6 +19,7 @@
   font-weight: 500;
   z-index: 100;
   position: relative;
+  font-size: 20px;
 }
 
 .droppable .planning{
