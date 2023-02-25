@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Assessment-for-Stellar-Culinary-Personnel-LTD/static/css/main.6bfddb8c.css",
+    "main.js": "/Assessment-for-Stellar-Culinary-Personnel-LTD/static/js/main.02076137.js",
+    "index.html": "/Assessment-for-Stellar-Culinary-Personnel-LTD/index.html",
+    "main.6bfddb8c.css.map": "/Assessment-for-Stellar-Culinary-Personnel-LTD/static/css/main.6bfddb8c.css.map",
+    "main.02076137.js.map": "/Assessment-for-Stellar-Culinary-Personnel-LTD/static/js/main.02076137.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6bfddb8c.css",
+    "static/js/main.02076137.js"
+  ]
+}
